@@ -1,0 +1,41 @@
+HTML 
+---- 
+Hyper text markup Language
+Developed BY : Tim Berners Lee
+Year : 1991
+Version : 5
+
+BODY 
+----
+FRONTEND
+HTML -- SKELETON 
+CSS  -- SKIN , MUSCLES , CLOTHES 
+JS   -- LOGIC
+
+WEBSITE -- Collection of web pages (Static)
+WEB APPLICATION(web app)  
+
+html 
+
+
+1. opening based 
+    a. opening and closing tag 
+        <p> TEXT CONTENT </p>
+
+     b. self closing tag
+        <br>
+        
+2. space based 
+    a. block tag 
+        occupies complete line 
+    
+    b. inline tag 
+        occupies only space covered by the content
+
+
+<html>
+    <head>
+    <body>
+
+<==============================================================>
+everything is perfect
