@@ -1,0 +1,16 @@
+Anchor
+------
+Links data 
+makes data clickable
+
+when clicked on , opens a new content for us 
+
+attributes
+----------
+1. href - Hyper Reference
+    a. online   b. offline
+    I. Blue -- not visited yet
+    II. Purplw -- visited 
+    III. Red - active link
+2. target
+    

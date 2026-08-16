@@ -1,0 +1,15 @@
+Image 
+-----
+self closing tag
+<img>
+
+Attributes
+----------
+1. src = source of image
+    a. online link   b. offline file
+2. height 
+3. width 
+4. alt -- provides a text when image is unable to load
+
+* Note : change only height or width , not both
+* if width is change , height gets changed in proportional 
