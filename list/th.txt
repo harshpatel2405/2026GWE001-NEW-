@@ -1,0 +1,19 @@
+LIST 
+----
+<li></li>
+
+ordered list 
+<ol></ol>
+type - 1 (default), a, A, i, I
+start
+reversed
+value
+
+unordered list 
+<ul></ul>
+type - disc (default) , circle, square , none
+
+defintion list 
+<dl> 
+    <dt> - description term 
+    <dd> -- description details
