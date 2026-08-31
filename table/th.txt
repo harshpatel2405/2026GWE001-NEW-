@@ -1,0 +1,35 @@
+table
+-----
+collection of rows and columns 
+
+table table 
+row tr        
+data td      simple text , left aligned
+header th    bold text , center aligned
+
+table -> tr -> td/th
+
+
+thead 
+tbody 
+tfooter
+<-======================================->
+Table 
+    Border
+    align - will change table position (left , center, right)
+    bgcolor - change background color of table
+    width , height
+    cellspacing -- space around the cells (default : 1)
+    cellpadding -- space inside the cells (default : 1)
+
+tr
+    align - data gets shifted (left , center , right)
+    bgcolor - change background color of row
+    height
+    
+td/th
+    align - data gets shifted (left , center , right)
+    bgcolor - change background color of data
+    width , height
+    colspan -- merging columns
+    rowspan -- merging rows
