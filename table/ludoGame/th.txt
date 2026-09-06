@@ -1,0 +1,4 @@
+Green = bgcolor="#00FF01"
+Blue = bgcolor="#0000FE"
+Red = bgcolor= "red"
+Yellow = bgcolor="yellow"
