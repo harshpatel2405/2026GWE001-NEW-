@@ -1,0 +1,12 @@
+Form 
+----
+Form tag 
+input -- self closing tag
+    attributes -- type
+               -- placeholder
+label 
+    for
+
+2 forms 
+    1. name , age , gender , email , password 
+    2. id, rollNo , subjects ,  grade 
