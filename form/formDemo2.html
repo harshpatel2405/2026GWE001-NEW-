@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <fieldset>
+        <legend>dATA </legend>
+    <form>
+        <label>Select Your City : </label>
+        <select name="city">
+            <option>Select Your City</option>
+            <option value="ahm">Ahmedabad</option>
+            <option value="and" selected>Anand</option>
+            <option value="rjk">Rajkot</option>
+            <option value="srt">Surat</option>
+        </select>
+        <br>
+
+        <label>Select Food : </label>
+        <select name="food">
+            <optgroup label="chinese">
+                <option>Manchurian</option>
+                <option>Noodles</option>
+            </optgroup>
+            <optgroup label="mexican">
+                <option>Burrito</option>
+                <option>Tacos</option>
+            </optgroup>
+            <optgroup label="italian">
+                <option>Pizza</option>
+                <option>Pasta</option>
+            </optgroup>
+        </select>
+
+        <br>
+
+        <label>Select Tip : </label>
+        10%<input type="range" name="range" value="50" min="10" max="100">100%
+
+        <br>
+        <LABEL>Select your Favourite color : </LABEL>
+        <input type="color" name="color">
+        <br>
+
+        <label>Enter your website url : </label>
+        <input type="url" value="https://www.google.com">
+        <br>
+        <!-- <label>Select your class : </label> -->
+        <!-- <input type="number" name="class" value="11" readonly> -->
+        <!-- <input type="number" name="class" value="11" disabled> -->
+        <input type="number" name="class" value="11" hidden>
+        <!-- <br> -->
+
+        <label>Select your age : </label>
+        <input type="number" min="10" max="80" name="age" required>
+        <br>
+
+        <label>Select your intials : </label>
+        <input type="text" minlength="2" maxlength="3" required name="intials">
+        <br>
+        <input type="submit">
+        <input type="reset">
+    </form>
+    </fieldset>
+</body>
+
+</html>
